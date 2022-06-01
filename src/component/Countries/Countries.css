@@ -1,0 +1,20 @@
+.image img{
+    width: 50%;
+    margin:10px;
+
+}
+.container{
+
+    background-color: rgb(138, 143, 143);
+    border: 2px solid black;
+    border-radius: 10px;
+    
+
+}
+.text-container{
+    text-align:left ;
+    margin-left: 10px;
+}
+.text-container p {
+    line-height: 5px;
+}
